@@ -2,11 +2,13 @@
   "name": "extension-pack-for-php-web",
   "displayName": "Extension Pack For PHP Web",
   "description": "PHP开发常用扩展包",
-  "version": "0.0.1",
+  "publisher": "fycoding",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.102.0"
   },
-  "repository": "",
+  "icon": "logo.png",
+  "repository": "https://github.com/fycoding/Extension-Pack-For-PHP-Web",
   "categories": [
     "Extension Packs"
   ],
